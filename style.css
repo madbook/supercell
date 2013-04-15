@@ -1,0 +1,5 @@
+canvas {
+    background: black;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+}
